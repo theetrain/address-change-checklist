@@ -2,14 +2,19 @@
 
 Moving? Changing your address? This checklist will help you discover what needs to be considered when your address changes.
 
-## Canada
+## Contributing
+
+Pull requests are welcome! You can add country-specific examples.
+
+## The checklist
 
 ### Government
 
 #### Tax Services
 
-- Canada Revenue Agency https://www.canada.ca/en/revenue-agency/
-- Revenue Quebec https://www.revenuquebec.ca/
+- Your federal revenue service or agency
+  - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/)
+  - 🇨🇦 [Revenue Quebec](https://www.revenuquebec.ca/)
 
 #### Identification and Certifications
 
@@ -19,6 +24,7 @@ Moving? Changing your address? This checklist will help you discover what needs 
 - Health card
 - Passport
 - Social insurance
+  - 🇨🇦 Your social insurance address is tied to the Canada Revenue Agency
 
 ### Education
 
