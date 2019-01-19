@@ -13,7 +13,7 @@ Pull requests are welcome! You can add country-specific examples.
 #### Tax Services
 
 - Your federal revenue service or agency
-  - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/)
+  - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/) (note: there are different accounts for individuals and businesses)
   - 🇨🇦 [Revenue Quebec](https://www.revenuquebec.ca/)
 
 #### Identification and Certifications
