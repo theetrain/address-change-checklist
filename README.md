@@ -35,7 +35,9 @@ Pull requests are welcome! You can add country-specific examples.
 
 - Employer
 - Group or individual benefits
-- Clients
+- Clients and invoices
+- Pension plan
+- Investment portfolio
 
 ### Insurance
 
@@ -47,9 +49,9 @@ Pull requests are welcome! You can add country-specific examples.
 
 ### Finances
 
-- Bank account
+- Bank accounts
 - Credit cards
-- Investment funds
+- Investment portfolio
 
 ### Home, utilities, and services
 
