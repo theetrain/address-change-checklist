@@ -64,6 +64,7 @@ Pull requests are welcome! You can add country-specific examples.
 
 ### Automotive
 
+- Car title / registration
 - Lease or financing
 - Warranty
 
