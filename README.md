@@ -16,6 +16,12 @@ Pull requests are welcome! You can add country-specific examples.
   - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/) (note: there are different accounts for individuals and businesses)
   - 🇨🇦 [Revenue Quebec](https://www.revenuquebec.ca/)
 
+#### Mailing services 
+
+- P.O. Box
+- Electronic mail
+  - 🇨🇦 [epost by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/epost.page)
+
 #### Identification and Certifications
 
 - Driver's licence
