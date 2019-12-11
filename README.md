@@ -58,6 +58,7 @@ Pull requests are welcome! You can add country-specific examples.
 
 - Bank accounts
 - Credit cards
+- Contactless payment services
 - Investment portfolio
 
 ### Home, utilities, and services
