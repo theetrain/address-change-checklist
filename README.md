@@ -22,13 +22,15 @@ Pull requests are welcome! You can add country-specific examples.
 - P.O. Box
 - Electronic mail
   - 🇨🇦 [epost by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/epost.page)
+  - 🇨🇦 [Mail Forwarding by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page)
 
 #### Identification and Certifications
 
 - Driver's licence
   - 🇨🇦 [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
 - Provincial or Territorial ID Card
-- Hunting licence
+- Hunting or firearms licence
+  - 🇨🇦 [Canadian Firearms Program](https://www.rcmp-grc.gc.ca/en/firearms/contact-the-canadian-firearms-program)
 - Health card
 - Passport
 - Social insurance
