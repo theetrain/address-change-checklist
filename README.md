@@ -89,3 +89,4 @@ Pull requests are welcome! You can add country-specific examples.
 - Magazine subscriptions
 - Charities
 - Product registrations (for recall notices)
+- Domain registrar
