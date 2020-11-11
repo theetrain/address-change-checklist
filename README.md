@@ -26,6 +26,7 @@ Pull requests are welcome! You can add country-specific examples.
 
 #### Identification and Certifications
 
+- Elections Canada
 - Driver's licence
   - 🇨🇦 [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
 - Provincial or Territorial ID Card
@@ -63,6 +64,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Credit cards
 - Contactless payment services
 - Investment portfolio
+- Remittance provider
 
 ### Home, utilities, and services
 
@@ -81,6 +83,10 @@ Pull requests are welcome! You can add country-specific examples.
 
 ### Commercial or Retail
 
-- Online shopping, home delivery programs
+- Online shopping, home delivery programs (includes address for saved credit card details)
 - Loyalty programs
 - Warranties
+- Magazine subscriptions
+- Charities
+- Product registrations (for recall notices)
+- Domain registrar
