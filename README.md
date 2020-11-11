@@ -26,7 +26,8 @@ Pull requests are welcome! You can add country-specific examples.
 
 #### Identification and Certifications
 
-- Elections Canada
+- Elections registration
+  - 🇨🇦 This is usually tied to your tax return
 - Driver's licence
   - 🇨🇦 [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
 - Provincial or Territorial ID Card
