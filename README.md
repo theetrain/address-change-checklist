@@ -15,9 +15,9 @@ Pull requests are welcome! You can add country-specific examples.
 - Your federal revenue service or agency
   - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/) (note: there are different accounts for individuals and businesses)
   - 🇨🇦 [Revenue Quebec](https://www.revenuquebec.ca/)
- - Municipal property tax
+- Municipal property tax
 
-#### Mailing services 
+#### Mailing services
 
 - P.O. Box
 - Electronic mail
@@ -37,10 +37,21 @@ Pull requests are welcome! You can add country-specific examples.
 - Passport
 - Social insurance
   - 🇨🇦 Your social insurance address is tied to the Canada Revenue Agency
+- Library card
+
+### Personal or family health and related services
+
+- Family doctors
+- Specialist clinics
+- Pharmacy
+- Veterinarian and pet ID chips
+- Daycare centres
+  - Emergency contact information
 
 ### Education
 
 - School, college, or university
+  - Emergency contact information
 - Provincial, Territorial, or Federal loans provider
 
 ### Work
@@ -66,6 +77,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Contactless payment services
 - Investment portfolio
 - Remittance provider
+- Will
 
 ### Home, utilities, and services
 
