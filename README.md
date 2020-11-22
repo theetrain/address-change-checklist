@@ -57,7 +57,9 @@ Pull requests are welcome! You can add country-specific examples.
 ### Work
 
 - Employer
-- Group or individual benefits
+  - Payroll system
+  - Group or individual benefits
+  - HR system
 - Clients and invoices
 - Pension plan
 - Investment portfolio
@@ -103,3 +105,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Charities
 - Product registrations (for recall notices)
 - Domain registrar
+
+### Other
+
+- Trusted friends or family
