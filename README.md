@@ -30,6 +30,7 @@ Pull requests are welcome! You can add country-specific examples.
   - 🇨🇦 This is usually tied to your tax return
 - Driver's licence
   - 🇨🇦 [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
+- Vehicle permit
 - Provincial or Territorial ID Card
 - Hunting or firearms licence
   - 🇨🇦 [Canadian Firearms Program](https://www.rcmp-grc.gc.ca/en/firearms/contact-the-canadian-firearms-program)
@@ -76,6 +77,8 @@ Pull requests are welcome! You can add country-specific examples.
 
 - Bank accounts
 - Credit cards
+  - Bank or credit-union cards
+  - Branded credit cards
 - Contactless payment services
 - Investment portfolio
 - Remittance provider
@@ -84,11 +87,21 @@ Pull requests are welcome! You can add country-specific examples.
 ### Home, utilities, and services
 
 - Home warranty
-- Electrical, water, gas, heating
-- TV, phone, fax, cellular, Internet
+- Utilities
+  - Electrical
+  - water
+  - gas
+  - heating
+- Connected services
+  - TV or cable subscription
+  - Home phone
+  - Cell phone
+  - Fax
+  - Internet
 - Home monitoring
 - Transit card
 - Cleaning service
+- Driveway snow shoveling
 
 ### Automotive
 
