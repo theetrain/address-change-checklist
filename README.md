@@ -121,4 +121,5 @@ Pull requests are welcome! You can add country-specific examples.
 
 ### Other
 
+- Cell phone Wi-Fi calling and emergency settings
 - Trusted friends or family
