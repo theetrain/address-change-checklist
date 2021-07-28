@@ -70,7 +70,6 @@ Pull requests are welcome! You can add country-specific examples.
 - Home
 - Automobile
 - Health, life
-- Loan issuers
 - Homeowner or renter's insurance
 
 ### Finances
@@ -79,6 +78,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Credit cards
   - Bank or credit-union cards
   - Branded credit cards
+- Loan issuers (automobile finances, line of credit, mortgage, etc)
 - Contactless payment services
 - Investment portfolio
 - Remittance provider
