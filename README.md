@@ -1,6 +1,10 @@
 # Address Change Checklist
 
-Moving? Changing your address? This checklist will help you discover what needs to be considered when your address changes.
+Moving? Changing your address? This checklist will help you discover what needs
+to be considered when your address changes.
+
+📣 Subscribe for updates! Hit the repository 'watch' button and listen for
+releases with full changelogs.
 
 ## Contributing
 
@@ -13,7 +17,8 @@ Pull requests are welcome! You can add country-specific examples.
 #### Tax Services
 
 - Your federal revenue service or agency
-  - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/) (note: there are different accounts for individuals and businesses)
+  - 🇨🇦 [Canada Revenue Agency](https://www.canada.ca/en/revenue-agency/) (note:
+    there are different accounts for individuals and businesses)
   - 🇨🇦 [Revenue Quebec](https://www.revenuquebec.ca/)
 - Municipal property tax
 
@@ -21,19 +26,23 @@ Pull requests are welcome! You can add country-specific examples.
 
 - P.O. Box
 - Electronic mail
-  - 🇨🇦 [epost by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/epost.page)
-  - 🇨🇦 [Mail Forwarding by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page)
+  - 🇨🇦
+    [epost by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/epost.page)
+  - 🇨🇦
+    [Mail Forwarding by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page)
 
 #### Identification and Certifications
 
 - Elections registration
   - 🇨🇦 This is usually tied to your tax return
 - Driver's licence
-  - 🇨🇦 [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
+  - 🇨🇦
+    [Ontario Driver's licence, vehicle permit, health card](https://www.ontario.ca/page/change-address-drivers-licence-vehicle-permit-and-health-card)
 - Vehicle permit
 - Provincial or Territorial ID Card
 - Hunting or firearms licence
-  - 🇨🇦 [Canadian Firearms Program](https://www.rcmp-grc.gc.ca/en/firearms/contact-the-canadian-firearms-program)
+  - 🇨🇦
+    [Canadian Firearms Program](https://www.rcmp-grc.gc.ca/en/firearms/contact-the-canadian-firearms-program)
 - Health card
 - Passport
 - Social insurance
@@ -104,7 +113,8 @@ Pull requests are welcome! You can add country-specific examples.
 - Cleaning service
 - Driveway snow shoveling
 - Municipal, government, accounts, or related services
-  - 🇨🇦 [Municipal Property Assessment Corporation (MPAC)](https://www.tarion.com/)
+  - 🇨🇦
+    [Municipal Property Assessment Corporation (MPAC)](https://www.tarion.com/)
 
 ### Automotive
 
@@ -114,7 +124,8 @@ Pull requests are welcome! You can add country-specific examples.
 
 ### Commercial or Retail
 
-- Online shopping, home delivery programs (includes address for saved credit card details)
+- Online shopping, home delivery programs (includes address for saved credit
+  card details)
 - Loyalty programs
 - Warranties
 - Magazine subscriptions
