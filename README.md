@@ -87,6 +87,7 @@ Pull requests are welcome! You can add country-specific examples.
 ### Home, utilities, and services
 
 - Home warranty
+  - 🇨🇦 [Tarion](https://www.tarion.com/)
 - Utilities
   - Electrical
   - water
@@ -102,6 +103,8 @@ Pull requests are welcome! You can add country-specific examples.
 - Transit card
 - Cleaning service
 - Driveway snow shoveling
+- Municipal, government, accounts, or related services
+  - 🇨🇦 [Municipal Property Assessment Corporation (MPAC)](https://www.tarion.com/)
 
 ### Automotive
 
