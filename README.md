@@ -27,8 +27,6 @@ Pull requests are welcome! You can add country-specific examples.
 - P.O. Box
 - Electronic mail
   - 🇨🇦
-    [epost by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/epost.page)
-  - 🇨🇦
     [Mail Forwarding by Canada Post](https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page)
 
 #### Identification and Certifications
