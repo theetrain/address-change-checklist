@@ -112,7 +112,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Driveway snow shoveling
 - Municipal, government, accounts, or related services
   - 🇨🇦
-    [Municipal Property Assessment Corporation (MPAC)](https://www.tarion.com/)
+    [Municipal Property Assessment Corporation (MPAC)](https://www.mpac.ca/en/MakingChangesUpdates/ChangingYourMailingAddress)
 
 ### Automotive
 
