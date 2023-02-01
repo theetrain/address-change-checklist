@@ -110,6 +110,8 @@ Pull requests are welcome! You can add country-specific examples.
 - Transit card
 - Cleaning service
 - Driveway snow shoveling
+- Child carseat registration
+- Other warranty or product registration
 - Municipal, government, accounts, or related services
   - 🇨🇦
     [Municipal Property Assessment Corporation (MPAC)](https://www.mpac.ca/en/MakingChangesUpdates/ChangingYourMailingAddress)
