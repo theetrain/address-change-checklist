@@ -90,6 +90,7 @@ Pull requests are welcome! You can add country-specific examples.
 - Investment portfolio
 - Remittance provider
 - Will
+- Beneficiaries and successor holders for registered accounts
 
 ### Home, utilities, and services
 
